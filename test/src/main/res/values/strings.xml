@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestTverskoi</string>
+    <string name="employee_item_age">Возраст:</string>
+    <string name="employee_data_specialty">Специальность:</string>
+<!--    <string name="worker_data_birthday">Дата рождения:</string>-->
+    <string name="employee_data_age">Возраст:</string>
+    <string name="title_specialties">Специальности</string>
+    <string name="title_employee">Работники</string>
+    <string name="title_developers">Разработчики</string>
+    <string name="title_managers">Менеджеры</string>
+</resources>
